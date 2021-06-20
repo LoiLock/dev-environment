@@ -1,0 +1,35 @@
+{
+    "typescript.tsserver.log": "verbose",
+    "workbench.colorTheme": "Night Owl (No Italics)",
+    "workbench.iconTheme": "seti",
+    "git.autofetch": true,
+    "workbench.tree.indent": 14,
+    "editor.codeActionsOnSave": {
+        "source.organizeImports": false,
+        "source.fixAll.eslint": true,
+    },
+    "eslint.validate": [
+        "javascript",
+        "typescript"
+    ],
+    "vetur.format.defaultFormatter.ts": "vscode-typescript",
+    "vetur.format.defaultFormatter.js": "vscode-typescript",
+    "vetur.format.defaultFormatter.html": "none",
+    "editor.tabCompletion": "on",
+    "typescript.updateImportsOnFileMove.enabled": "always",
+    "eslint.format.enable": true,
+    "scss.lint.duplicateProperties": "warning",
+    "eslint.packageManager": "yarn",
+    "diffEditor.ignoreTrimWhitespace": true,
+    "vetur.format.options.tabSize": 4,
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "stylelint.packageManager": "yarn",
+    "npm.packageManager": "yarn",
+    "files.associations": {
+        "*.html": "html"
+    },
+    "auto-rename-tag.activationOnLanguage": [
+        "*"
+    ],
+    "files.eol": "\n",
+}
